@@ -1,0 +1,8 @@
+* My Main Laptop Dotfiles
+
+
+My Macbook Pro 2015 mid 15inch Dotfiles
+
+
+This repository contains Portage,kernels,genkernel,etc.
+
