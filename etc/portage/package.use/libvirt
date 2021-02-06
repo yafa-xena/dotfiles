@@ -1,0 +1,2 @@
+app-emulation/libvirt xen rbd glusterfs
+>=dev-python/numpy-1.19.4 lapack

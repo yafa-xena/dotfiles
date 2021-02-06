@@ -1,0 +1,2 @@
+media-video/ffmpeg libdrm vpx sdl x265 pulseaudio opus theora vaapi amrenc amr
+media-plugins/alsa-plugins ffmpeg pulseaudio

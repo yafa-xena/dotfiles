@@ -1,0 +1,10 @@
+net-misc/zerotier ~amd64
+www-apps/hugo ~amd64
+app-shells/fzf ~amd64
+dev-util/packer ~amd64
+media-video/obs-studio ~amd64
+app-misc/anki ~amd64
+app-doc/zeal ~amd64
+net-im/qtox ~amd64
+net-im/slack ~amd64
+www-client/torbrowser-launcher ~amd64

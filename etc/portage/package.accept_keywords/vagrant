@@ -1,0 +1,4 @@
+app-emulation/vagrant ~amd64
+dev-ruby/hashicorp-checkpoint ~amd64
+dev-ruby/rubyzip ~amd64
+dev-ruby/vagrant_cloud ~amd64

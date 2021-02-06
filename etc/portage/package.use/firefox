@@ -1,0 +1,4 @@
+>=media-libs/libvpx-1.9.0 postproc
+# required by www-client/firefox-78.6.1::gentoo
+# required by firefox (argument)
+>=dev-lang/python-3.9.0-r1 sqlite
