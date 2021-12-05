@@ -1,16 +1,1 @@
-net-im/telegram-desktop pulseaudio
->=dev-qt/qtgui-5.15.2-r1 wayland
-# required by net-im/telegram-desktop-2.4.7-r1::gentoo
-# required by telegram-desktop (argument)
->=media-libs/libtgvoip-2.4.4_p20201030 pulseaudio
-# required by net-im/telegram-desktop-2.4.7-r1::gentoo
-# required by telegram-desktop (argument)
->=media-video/ffmpeg-4.3.1 opus
-# required by net-im/telegram-desktop-2.4.7-r1::gentoo[webrtc]
-# required by telegram-desktop (argument)
->=media-libs/tg_owt-0_pre20201105 pulseaudio
-# required by media-sound/pulseaudio-13.0::gentoo[alsa,alsa-plugin]
-# required by media-libs/libtgvoip-2.4.4_p20201030::gentoo[pulseaudio]
-# required by net-im/telegram-desktop-2.4.7-r1::gentoo
-# required by telegram-desktop (argument)
->=media-plugins/alsa-plugins-1.2.2 pulseaudio
+>=media-video/ffmpeg-4.4-r1 opus

@@ -1,1 +1,2 @@
->=app-crypt/gpgme-1.14.0 python
+>=x11-libs/gtk+-3.24.29 wayland
+

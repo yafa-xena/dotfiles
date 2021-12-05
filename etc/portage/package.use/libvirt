@@ -1,2 +1,1 @@
-app-emulation/libvirt xen rbd glusterfs
->=dev-python/numpy-1.19.4 lapack
+>=net-dns/dnsmasq-2.85 script

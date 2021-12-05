@@ -1,0 +1,10 @@
+>=dev-qt/qtwebengine-5.15.2_p20210824 widgets
+# required by dev-python/wxpython-4.0.7-r1::gentoo
+# required by dev-python/matplotlib-3.4.3::gentoo[-python_targets_python3_8,wxwidgets,python_targets_python3_9,-test]
+# required by dev-python/matplotlib-inline-0.1.2::gentoo
+# required by dev-python/ipykernel-6.2.0::gentoo
+# required by dev-python/qtconsole-5.1.1::gentoo
+# required by dev-python/ipython-7.26.0::gentoo[qt5]
+# required by dev-python/ipyparallel-6.3.0-r1::gentoo[-test]
+>=x11-libs/wxGTK-3.0.5.1 gstreamer
+

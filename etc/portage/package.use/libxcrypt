@@ -1,0 +1,2 @@
+>=sys-libs/libxcrypt-4.4.23-r2 -system -split-usr
+
