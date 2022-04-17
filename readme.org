@@ -1,5 +1,0 @@
-* My  Dotfiles
-
-
-OS: [Gentoo Linux](https://gentoo.org/)
-
